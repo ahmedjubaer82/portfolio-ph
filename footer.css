@@ -1,0 +1,37 @@
+.footer-logo {
+    text-align: center;
+    font-size: 40px;
+    margin-top: 40px;
+}
+
+.first-footer {
+    background-color: black;
+    padding: 40px 0px;
+}
+
+.footer-logo h3 {
+    color: var(--primary-color);
+}
+
+.footer-points {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    padding: 0px 150px;
+    margin: 50px;
+}
+
+.social-link-icons {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    padding: 0px 450px;
+    margin-top: 50px;
+}
+
+.last-footer {
+    text-align: center;
+    margin: 40px;
+    padding: 0px 60px;
+
+}
